@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "ru.anasoft.android_homework_1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ru.anasoft.android_homework_1"
@@ -32,6 +32,10 @@ android {
     }
     kotlinOptions {
         jvmTarget = "1.8"
+    }
+
+    buildFeatures {
+        viewBinding = true
     }
 }
 

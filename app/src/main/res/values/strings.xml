@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Android_HomeWork_1</string>
+    <string name="app_name">Счетчик пассажиров</string>
+    <string name="busIsEmpty">Все места свободны</string>
+    <string name="busIsFull">Пассажиров слишком много!</string>
+    <string name="busStatus">Осталось мест: </string>
 </resources>
